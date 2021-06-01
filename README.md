@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nagendra Udupa
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Competetive Coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
