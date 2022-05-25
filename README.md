@@ -1,5 +1,5 @@
 Hi!
 
-I am Nagendra Udupa and currently am a budding Developer
+I am Nagendra Udupa and currently am a budding Web/Software Developer
 
-Currently I am building some projects!
+I love to build projects and constantly keep learning new things!
